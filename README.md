@@ -1,4 +1,4 @@
-# PROJETO APLICATIVO
+# PROJETO HTML,CSS e JAVASCRIPT
 > Caio Pietro Fernandes - N° 03
 > 
 > Daniel Fonseca Monteiro - N° 05
