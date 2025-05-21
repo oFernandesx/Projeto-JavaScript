@@ -1,4 +1,4 @@
-# PROJETO HTML,CSS e JAVASCRIPT
+# PROJETO APLICATIVO
 > Caio Pietro Fernandes - N° 03
 > 
 > Daniel Fonseca Monteiro - N° 05
@@ -39,29 +39,30 @@ que represente bem a identidade e os valores da nossa concessionária._
 tempo desenvolvendo, nós finalizamos a produção da logo, usamos as logos também de acordo com as paletas do site_
 
   _Alguns modelos que estarão no site ja foram pensados, optamos por ser uma loja de luxo, com carros esportivos os nomes selecionados são:_
-  - Bugatti Chiron
-  - Aston Martin
-  - BYD ato
-  - Laborghini Urus
-  - Dodge Challenger
-  - BMW M3
-  - BMW 3-Series 
-  - Corvette C8
-  - Porsche GT3
-  - Mercedez AMG GTR
-  - Rolls Royce Phanton
-  - Toyota Supra
-  - Honda NSX
-  - Nissan GTR
-  - Porsche 924 (1976)
-  - Ford Mustang FastBack (1971)
-  - Chevrolet Camaro (1980)
+  - Bugatti Chiron (2016) R$ 21.000.000
+  - Aston Martin vantage (2018) R$ 1.000.000
+  - BYD atto (2022) R$ 210.000
+  - Laborghini Urus (2018) R$ 2.800.000
+  - Ferrari Testarossa (1985) R$ 2.200.000
+  - Dodge Challenger (2015) R$ 350.000
+  - BMW M3 (2020) R$ 600.000
+  - BMW 3-Series (2000) R$ 45.000
+  - Corvette C8 (2020)  R$ 950.000 _- carro destaque -_
+  - Mercedez AMG GTR (2017) R$ 1.300.000
+  - Rolls Royce Phanton (2017) R$ 7.000.000 _- carro destaque -_ 
+  - Toyota Supra (2019) R$ 600.000
+  - Honda NSX (2016) R$1.200.000
+  - Nissan GTR (2016) R$ 750.000
+  - Porsche 924 (1976) R$ 120.000
+  - Porsche 911 GT3 (2021) R$ 1.400.000 _- carro destaque -
+  - Ford Mustang FastBack (1971) R$ 350.000
+  - Chevrolet Camaro (1980) R$ 130.000
   
     
   _Porém alguns vÃo ter um destaque na Homepage como:_
-  - Laborghini Huracan
-  - Ferrari 458
-  - McLaren 720S
+  - Laborghini Huracan (2022) R$ 3.200.000
+  - Ferrari 458 (2009) R$ 1.800.000
+  - McLaren 720S (2017) R$ 2.600.000
 
   _Ai ideia de usar essas fotos é bem mais simples do que parece, nós estamos pegando as fotos para mostrar o carro de frente, lado e de costas, para mostrar mais informações do veículo quando a pessoa se interessar pelo modelo escolhido._
 
