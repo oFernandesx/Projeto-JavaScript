@@ -38,6 +38,37 @@ que represente bem a identidade e os valores da nossa concessionária._
   _Ja escolhesmo a fonte que iremos usar para o nome da marca (distancia) e também escolhemos o nome da marca, que é Maison First, que é uma referencia ao Grupo 1, após um
 tempo desenvolvendo, nós finalizamos a produção da logo, usamos as logos também de acordo com as paletas do site_
 
+  _Alguns modelos que estarão no site ja foram pensados, optamos por ser uma loja de luxo, com carros esportivos os nomes selecionados são:_
+  - Bugatti Chiron
+  - Aston Martin
+  - BYD ato
+  - Laborghini Urus
+  - Dodge Challenger
+  - BMW M3
+  - BMW 3-Series 
+  - Corvette C8
+  - Porsche GT3
+  - Mercedez AMG GTR
+  - Rolls Royce Phanton
+  - Toyota Supra
+  - Honda NSX
+  - Nissan GTR
+  - Porsche 924 (1976)
+  - Ford Mustang FastBack (1971)
+  - Chevrolet Camaro (1980)
+  
+    
+  _Porém alguns vÃo ter um destaque na Homepage como:_
+  - Laborghini Huracan
+  - Ferrari 458
+  - McLaren 720S
+
+  _Ai ideia de usar essas fotos é bem mais simples do que parece, nós estamos pegando as fotos para mostrar o carro de frente, lado e de costas, para mostrar mais informações do veículo quando a pessoa se interessar pelo modelo escolhido._
+
+  
+___
+
+
 
 
 
